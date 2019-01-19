@@ -1,8 +1,16 @@
 body {
 	text-align: center;
 	font-size: 1em;
+	font-family: 'ZCOOL KuaiLe', cursive;
+	color: #F652A0;
+	background-color: #29FFFF;
 }
 
 p {
 	font-size: 1em;
 }
+
+#about{
+	color: #4286f4;
+	text-transform: uppercase;
+	}
