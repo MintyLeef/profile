@@ -9,8 +9,18 @@ body {
 p {
 	font-size: 1em;
 }
-
+#intro{
+	background-color:#041f60
+}
 #about{
-	color: #4286f4;
-	text-transform: uppercase;
+	color: #f652a0;
+	text-transform: lowercase;
+	background-color:
 	}
+
+nav ul li{
+	display: inline;
+	border:2.5px solid white;
+	padding: 10px 5px;
+	margin:5px 10px;
+}
